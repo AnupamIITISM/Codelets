@@ -1,0 +1,11 @@
+Steps
+
+1. Reset the Wifi Router (By pressing the Reset button 20 seconds)
+2. Connect the laptop with router (via Wifi or cable)
+3. connect to http://192.168.0.1
+4. Type mannual SetUp(Static IP) & Enter the Ip configuration as per the data (available on calling Alliance Hub)
+5. Call the Alliance Hub for resetting the MAC. [Current No 9836375177]
+
+
+
+
