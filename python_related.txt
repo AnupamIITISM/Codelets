@@ -1,0 +1,3 @@
+Create a New environment for keras-tensorflow
+
+conda create -n keras-gpu python=3.6 numpy scipy keras-gpu
